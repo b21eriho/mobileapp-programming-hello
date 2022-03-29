@@ -3,7 +3,7 @@
 
 **Skriv din rapport här!**
 
-_Du kan ta bort all text som finns sedan tidigare_.
+_Du kan ta bort all text som finns sedan tidig_.
 
 ## Följande grundsyn gäller dugga-svar:
 
