@@ -1,6 +1,6 @@
 
 # Rapport
 
-Fältet ``android:text``
+Fältet ``android:text`` ändrades till att innehålla en referens till `strings.xml`
 
 ![](screenshot.png)
